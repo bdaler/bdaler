@@ -51,3 +51,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdaler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/bdaler?template=classic&repositories=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Europe%2FSamara)
