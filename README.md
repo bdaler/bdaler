@@ -42,13 +42,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-contribution-stats.vercel.app/api/?username=bdaler)](https://github-contribution-stats.vercel.app/api/?username=bdaler)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdaler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](https://metrics.lecoq.io/bdaler?template=classic&repositories=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Europe%2FSamara)
